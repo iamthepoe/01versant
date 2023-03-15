@@ -1,0 +1,15 @@
+<script>
+
+</script>
+
+<template>
+  <div>
+    <h1>This is Vue.</h1>
+  </div>
+</template>
+
+<style>
+  h1{
+    color: red;
+  }
+</style>

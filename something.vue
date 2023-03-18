@@ -4,7 +4,7 @@
 
 <template>
   <div>
-    <h1>This is Vue.</h1>
+    <h1>This is VueJS</h1>
   </div>
 </template>
 
